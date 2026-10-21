@@ -1,15 +1,15 @@
 {
-  "version": "2.0.1",
+  "version": "2.1.0",
   "userscript": {
     "file": "venper.user.js",
-    "size": 151418,
-    "sha256": "d1e0a08838e0441563f458e4d92278867b1d1d2e377783de491575556e1c6417"
+    "size": 280724,
+    "sha256": "a0ec553634e7264cd72fa4c5368a34c9e8d01568d85ee17c2b8aa098c44be19a"
   },
   "installer": {
     "file": "VenperSetup.exe",
-    "version": "2.0.0",
-    "size": 4185600,
-    "sha256": "ab969710f7ebb77517f30f953723e2f17702f9b911a1a777e385af538fcfda9b"
+    "version": "2.1.0",
+    "size": 4205056,
+    "sha256": "e8cde9260e37b38066fc97b37a13baf5ae72f84c95b41a0e1a07e6e6ccd3eecc"
   },
-  "published": "2026-10-20T23:36:41.874Z"
+  "published": "2026-10-21T10:34:57.432Z"
 }

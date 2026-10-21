@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Venper
 // @namespace    https://github.com/yakazt/venper
-// @version      2.0.1
+// @version      2.1.0
 // @description  Open-source Equicord-style client mod for Yapper: plugins, themes, QoL.
 // @author       yakazt
 // @match        *://yapper.website/*
@@ -12,4 +12,4 @@
 // @updateURL    https://raw.githubusercontent.com/yakazt/venper-dist/main/venper.meta.js
 // @supportURL   https://github.com/yakazt/venper/issues
 // ==/UserScript==
-// VENPER_VERSION = "2.0.1"
+// VENPER_VERSION = "2.1.0"
